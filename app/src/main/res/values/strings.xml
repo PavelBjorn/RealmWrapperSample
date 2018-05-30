@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">REALM WRAPPER EXAMPLE</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+</resources>
